@@ -1,0 +1,17 @@
+Lifecycle methods -->a which automatically triggered during certain phase
+
+Mounting-->whenever we refresh the page ui(class and functional component) for first time is called  mounting for the first time each time we refresh our page it gets mounted
+when we search for something the daata is mounted or displayed on screen
+constructor , render method will be called for first time
+
+updating-->when we update state variable of class or functional component that componenent only will be re-rendered again is updating
+
+unmounting-->removing /unrendering ui from rendering in conditional rendering
+
+these are all valid for for class based component not for functional based
+
+we use bootstrap for js similarly we can use bootstrap and react material ui for react for design and responsive purpose
+
+custom component-->user written copmponent(counter etc)
+
+we passs data from parent to child component using props,but to pass data from child to  parent 
